@@ -107,4 +107,6 @@ It bridges the gap between farmers, banks, and investors, fostering a sustainabl
 ==================================================
 13. CONTRIBUTORS
 ==================================================
-[Add your name(s), contact details, and team members here]  
+C Sai Prakash
+K Nashitha
+Shaik Imran
