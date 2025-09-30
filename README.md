@@ -7,9 +7,9 @@
 ==================================================
 Blockchain-Based Real-Time Insurance and Resource Distribution Platform for Farmers  
 
-==================================================
+===================================================
 2. ABSTRACT
-==================================================
+===================================================
 Farmers are the backbone of the economy, yet they face critical challenges such as delayed insurance claim settlements, lack of transparency in fund distribution, and untimely access to fertilizers and pesticides.  
 This project proposes a blockchain-integrated platform that connects farmers, banks, and investors in a secure, transparent ecosystem.  
 By leveraging smart contracts, funds collected from financial institutions and investors can be disbursed in real time for insurance claims and agricultural inputs, ensuring farmers receive timely assistance without intermediaries.  
